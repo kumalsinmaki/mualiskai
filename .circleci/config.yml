@@ -1,7 +1,4 @@
 
-      - 
-    <<: &commonSteps
-      steps:
         - checkout
         - run:
             name: abahi
